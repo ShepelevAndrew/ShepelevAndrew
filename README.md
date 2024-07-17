@@ -1,4 +1,4 @@
-## 📊 All time development breakdown
+### 📊 All time development breakdown
 
 <!--START_SECTION:waka-->
 
