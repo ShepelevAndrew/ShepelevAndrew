@@ -1,3 +1,4 @@
+<div style="font-size: 14px;">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,3 +18,4 @@ Other                  13 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+</div>
