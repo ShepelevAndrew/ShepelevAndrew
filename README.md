@@ -1,4 +1,5 @@
-<div style="font-size: 20px;">
+## 📊 All time development breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -18,4 +19,3 @@ Other                  13 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-</div>
