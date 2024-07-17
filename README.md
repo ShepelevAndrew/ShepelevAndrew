@@ -1,4 +1,4 @@
-### 📊 All time development breakdown
+### 📊 All time development breakdown (from 30 March 2024)
 
 <!--START_SECTION:waka-->
 
